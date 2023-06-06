@@ -1,6 +1,5 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import disney from "./../assets/images/disney.png";
 import marvel from "./../assets/images/marvel.png";
 import nationalG from "./../assets/images/nationalG.png";
 import pixar from "./../assets/images/pixar.png";
