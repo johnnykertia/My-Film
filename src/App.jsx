@@ -17,7 +17,7 @@ function App() {
         <Header />
         <Slider />
         <ProdcutionList />
-        <GenreMovieList/>
+        <GenreMovieList />
       </div>
     </>
   );
